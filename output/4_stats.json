@@ -1,0 +1,26 @@
+{
+  "price_stat": {
+    "sum": 1534039559,
+    "min": 100089,
+    "max": 999863,
+    "avg": 540725.963694043
+  },
+  "title_stat": {
+    "Umbrellas": 156,
+    "Jeans": 178,
+    "Belts": 175,
+    "Pants": 194,
+    "Jacket": 172,
+    "Hat": 183,
+    "Handbags": 197,
+    "T-shirt": 171,
+    "Blouse": 173,
+    "Shoes": 180,
+    "Shirt": 176,
+    "Skirt": 191,
+    "Socks": 192,
+    "Gloves": 186,
+    "Dress": 160,
+    "Sweater": 153
+  }
+}
